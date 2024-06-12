@@ -9,12 +9,12 @@ This project allows users to explore bikeshare data from 3 major U.S. cities: Ch
 
 ### Files used
 The files needed to run this project include: bikeshare_2.py, chicago.csv, new_york_city.csv, and washington.csv. To run this project, enter the following command into Git Bash:
-ipython bikeshare_2.py
+`ipython bikeshare_2.py`
 
 ### Credits
-This repo was forked from the following repository: https://github.com/udacity/pdsnd_github
+This repo was forked from [this repository](https://github.com/udacity/pdsnd_github).
 
-The bikeshare data used in this project was provided by Motive, a bikeshare system provider that services many locations throughout the U.S. https://motivateco.com/. 
+The bikeshare data used in this project was provided by [Motive](https://motivateco.com/), a bikeshare system provider that services many locations throughout the U.S.  
 
-This project was completed as part of the Udacity Programming for Data Science with Python nanodegree. 
+This project was completed as part of the [Udacity Programming for Data Science with Python nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104?promo=year_end&coupon=SKILLS50&utm_source=gsem_india_brand&utm_medium=ads_r&utm_campaign=21225968073_c_individuals&utm_term=162291060475&utm_keyword=python%20for%20data%20science%20udacity_e&utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=21225968073_c_individuals&utm_term=162291060475&utm_keyword=python%20for%20data%20science%20udacity_e&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgTzq4exsIlz1KcT9wSKTpW4-0IF1h6vt3C_zeZfMYMFGU7srlRwJ9exoCUsYQAvD_BwE). 
 
