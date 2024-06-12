@@ -244,7 +244,9 @@ def main():
         user_stats(df) 
         raw_display(df)     
         restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        if restart.lower() not in ['yes', 'no']:
+            print("Invalid response. Please select yes or no")
+        else restart.lower() == 'no':
             break
 
 if __name__ == "__main__":
