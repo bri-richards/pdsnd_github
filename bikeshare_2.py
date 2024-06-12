@@ -207,8 +207,8 @@ def raw_display(df):
             continue
         elif answer == 'y':
             print(df.head()) 
-            s = 0
-            e = 5
+            s = 5
+            e = 10
             while True:
                 if e >= df.shape[0]:
                     emergency_exit = True
@@ -244,7 +244,9 @@ def main():
         user_stats(df) 
         raw_display(df)     
         restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        if restart.lower() not in ['yes', 'no']:
+            print("Invalid response. Please select yes or no")
+        else restart.lower() == 'no':
             break
 
 if __name__ == "__main__":
