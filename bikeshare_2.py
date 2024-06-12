@@ -207,8 +207,8 @@ def raw_display(df):
             continue
         elif answer == 'y':
             print(df.head()) 
-            s = 0
-            e = 5
+            s = 5
+            e = 10
             while True:
                 if e >= df.shape[0]:
                     emergency_exit = True
