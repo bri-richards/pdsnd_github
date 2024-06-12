@@ -23,3 +23,5 @@ The bikeshare data used in this project was provided by [Motive](https://motivat
 
 This project was completed as part of the [Udacity Programming for Data Science with Python nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104?promo=year_end&coupon=SKILLS50&utm_source=gsem_india_brand&utm_medium=ads_r&utm_campaign=21225968073_c_individuals&utm_term=162291060475&utm_keyword=python%20for%20data%20science%20udacity_e&utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=21225968073_c_individuals&utm_term=162291060475&utm_keyword=python%20for%20data%20science%20udacity_e&gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgTzq4exsIlz1KcT9wSKTpW4-0IF1h6vt3C_zeZfMYMFGU7srlRwJ9exoCUsYQAvD_BwE). 
 
+### Social Media
+Visit [Bri's linkedIn page](www.linkedin.com/in/bri-richards-66942224)!
